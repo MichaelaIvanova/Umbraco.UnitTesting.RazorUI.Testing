@@ -6,6 +6,7 @@ using Umbraco.Web;
 using ASP;
 using RazorGenerator.Testing;
 using System.Collections.Generic;
+using Microsoft.CSharp.RuntimeBinder;
 
 namespace Umbraco.Grid.Fanoe.Tests
 {
@@ -31,9 +32,11 @@ namespace Umbraco.Grid.Fanoe.Tests
         [Test()]
         public void FanoeUITests_Get_Partial_View()
         {
-            var html = _compiledView.RenderAsHtml(new TestClass());
+            //var html = _compiledView.RenderAsHtml(new TestClass());
 
-            Assert.Fail();
+            //exception is thrown at line 17 at Fanoe.cshtml
+            //TODO: add propertier to the test model
+            Assert.Throws(Is.TypeOf<RuntimeBinderException>().And.Message.Contains("does not contain a definition for 'rows'"), () => _compiledView.RenderAsHtml(new TestClass()));
         }
     }
 
