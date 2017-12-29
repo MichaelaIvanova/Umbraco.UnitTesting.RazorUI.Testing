@@ -1,0 +1,27 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Fri Dec 29 15:31:01 2017
+
+   Source : C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe\Umbraco\
+     Dest : C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe\App_Data\NuGetBackup\20171229-153101\Umbraco\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe\Umbraco\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Fri Dec 29 15:31:01 2017
