@@ -232,10 +232,18 @@ WriteLiteralTo(__razor_helper_writer, "\n    </div>\n");
 
         #line default
         #line hidden
-        
-        public _Views_Partials_Grid_Fanoe_cshtml()
+        private UmbracoHelper _helper;
+
+        public _Views_Partials_Grid_Fanoe_cshtml(UmbracoHelper helper)
         {
+            this._helper = helper;
         }
+
+        public override UmbracoHelper Umbraco
+        {
+            get { return this._helper; }
+        }
+
         public override void Execute()
         {
 WriteLiteral("\n");
