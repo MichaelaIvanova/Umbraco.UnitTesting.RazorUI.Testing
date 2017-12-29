@@ -117,3 +117,4 @@ C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Gr
 C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Example\obj\Debug\Umbraco.Grid.Example.csproj.CoreCompileInputs.cache
 C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Example\obj\Debug\Umbraco.Grid.Example.dll
 C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Example\obj\Debug\Umbraco.Grid.Example.pdb
+C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Example\obj\Debug\Umbraco.Grid.Example.csprojResolveAssemblyReference.cache
