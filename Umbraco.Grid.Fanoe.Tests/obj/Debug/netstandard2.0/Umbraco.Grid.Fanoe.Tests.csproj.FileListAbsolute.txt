@@ -1,0 +1,6 @@
+C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe.Tests\bin\Debug\netstandard2.0\Umbraco.Grid.Fanoe.Tests.deps.json
+C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe.Tests\bin\Debug\netstandard2.0\Umbraco.Grid.Fanoe.Tests.dll
+C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe.Tests\obj\Debug\netstandard2.0\Umbraco.Grid.Fanoe.Tests.csprojResolveAssemblyReference.cache
+C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe.Tests\obj\Debug\netstandard2.0\Umbraco.Grid.Fanoe.Tests.csproj.CoreCompileInputs.cache
+C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe.Tests\obj\Debug\netstandard2.0\Umbraco.Grid.Fanoe.Tests.AssemblyInfoInputs.cache
+C:\Users\michaela.ivanova\Desktop\Umbraco.UnitTesting.RazorUI.Testing\Umbraco.Grid.Fanoe.Tests\obj\Debug\netstandard2.0\Umbraco.Grid.Fanoe.Tests.AssemblyInfo.cs

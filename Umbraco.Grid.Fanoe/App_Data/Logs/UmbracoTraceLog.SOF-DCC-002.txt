@@ -1406,3 +1406,7 @@ _shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needF
  2017-12-29 15:36:36,724 [P23328/D13/T7] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.Deploy.IServiceConnector
  2017-12-29 15:36:36,728 [P23328/D13/T7] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.Deploy.IServiceConnector (took 3ms)
  2017-12-29 15:37:12,710 [P23328/D13/T5] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-12-28 15:37:12
+ 2017-12-29 15:52:25,653 [P23328/D13/T89] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: michaela.av.ivanova@gmail.com, IP Address: ::1
+ 2017-12-29 15:52:25,678 [P23328/D13/T85] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: michaela.av.ivanova@gmail.com, IP Address: ::1
+ 2017-12-29 16:03:05,507 [P23328/D13/T74] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username michaela.av.ivanova@gmail.com from IP address ::1
+ 2017-12-29 16:03:05,510 [P23328/D13/T74] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: michaela.av.ivanova@gmail.com logged in from IP address ::1
