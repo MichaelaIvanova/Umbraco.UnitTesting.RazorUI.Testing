@@ -31,17 +31,14 @@ namespace Umbraco.Grid.Fanoe.Tests
         [Test()]
         public void FanoeUITests_Get_Partial_View()
         {
-            var html = _compiledView.RenderAsHtml(new object());
-            //var msg = html.DocumentNode.Descendants("p").FirstOrDefault().InnerText;
+            var html = _compiledView.RenderAsHtml(new TestClass());
 
-            //Assert.IsTrue(!string.IsNullOrEmpty(msg));
-            //Assert.IsTrue(!string.IsNullOrWhiteSpace(msg));
-            //Assert.IsTrue(msg.ToLower().Contains("unavailable"));
+            Assert.Fail();
         }
     }
 
     public class TestClass
     {
-        public List<string> sections { get; set; }
+        public List<string> sections { get; set; } = new List<string>() { "one" };
     }
 }
