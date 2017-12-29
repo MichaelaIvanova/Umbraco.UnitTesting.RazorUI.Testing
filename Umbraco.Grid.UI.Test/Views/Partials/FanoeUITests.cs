@@ -5,6 +5,7 @@ using Umbraco.Grid.UI.Test.Utilities;
 using Umbraco.Web;
 using ASP;
 using RazorGenerator.Testing;
+using System.Collections.Generic;
 
 namespace Umbraco.Grid.Fanoe.Tests
 {
@@ -37,5 +38,10 @@ namespace Umbraco.Grid.Fanoe.Tests
             //Assert.IsTrue(!string.IsNullOrWhiteSpace(msg));
             //Assert.IsTrue(msg.ToLower().Contains("unavailable"));
         }
+    }
+
+    public class TestClass
+    {
+        public List<string> sections { get; set; }
     }
 }
