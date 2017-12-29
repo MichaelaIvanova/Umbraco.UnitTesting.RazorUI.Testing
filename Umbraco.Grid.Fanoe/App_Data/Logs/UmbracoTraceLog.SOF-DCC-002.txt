@@ -1405,3 +1405,4 @@ _shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needF
  2017-12-29 15:36:36,724 [P23328/D13/T7] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
  2017-12-29 15:36:36,724 [P23328/D13/T7] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.Deploy.IServiceConnector
  2017-12-29 15:36:36,728 [P23328/D13/T7] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.Deploy.IServiceConnector (took 3ms)
+ 2017-12-29 15:37:12,710 [P23328/D13/T5] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-12-28 15:37:12
